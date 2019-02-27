@@ -1,0 +1,36 @@
+body {
+    background-color: #212121;
+    color: #757575;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+.container {
+    background-color: white;
+    max-width: 400px;
+    margin: 100px auto 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.done {
+    text-decoration: line-through;
+    color: #BDBDBD;
+}
+
+ul li:hover {
+    color: #CDDC39;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 2px 0;
+}
+
